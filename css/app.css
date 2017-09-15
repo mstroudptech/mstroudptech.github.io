@@ -1,0 +1,98 @@
+/*******************************************
+General
+*******************************************/
+.wrap{
+  color: white;
+  width: 93%;
+  margin: auto;
+}
+/*******************************************
+Navigation
+********************************************/
+.top-bar{
+  background-color: rgb(46, 65, 114);
+  z-index: 99999999;
+}
+.top-bar-right li{
+  background-color: rgb(46, 65, 114);
+  z-index: 99999;
+}
+.top-bar-right ul{
+  background-color: rgb(46, 65, 114);
+  z-index: 9999;
+}
+.top-bar-left h4 a{
+  color: white;
+  font-weight: bold;
+  font-family: 'Acme', sans-serif;
+}
+.top-bar-right a{
+  color: white;
+  font-weight: bold;
+  font-family: 'Acme', sans-serif;
+}
+/******************************************
+Header
+******************************************/
+.orbit{
+  background-color: rgb(46, 65, 114);
+
+}
+.orbit h3{
+  width: 80%;
+  margin: auto;
+  padding-top: 4em
+}
+.orbit img{
+  max-height: 22em;
+}
+/****************************************
+Main
+****************************************/
+.main{
+  padding-top: 2em;
+  background-color: rgb(194, 196, 201);
+  background-image: url("../images/green_cup.png");
+}
+p{
+  font-family: 'Alegreya';
+
+}
+.main p{
+  font-size: 1.2em;
+  font-weight: bold;
+}
+img{
+max-width: 75%;
+max-height: 50%;
+margin: auto;
+}
+.row{
+  width: 100%;
+  margin: auto;
+}
+.columns{
+  padding: 1em 2em;
+}
+h2{
+  text-align: center;
+
+}
+/**************************************
+Footer
+**************************************/
+.footer{
+  text-align: center;
+  color: white;
+  background-color: rgb(46, 65, 114);
+}
+.footer h3{
+  color: white;
+}
+.footer a{
+  color: white;
+}
+.footer img{
+  height: 3em;
+  width: 3em;
+}
